@@ -1,0 +1,117 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+h1{
+  font-size: 450%;
+  margin:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+color:teal;
+}
+
+.top-container{
+  background-color:powderblue;
+  position:relative;
+  padding-top: 15%;
+}
+.middle-container {
+  background-color:lavender;
+}
+
+
+
+.two{
+  position: absolute;
+  top:25%;
+  left:15%;
+}
+.one{
+  position:absolute;
+  right:23%;
+  top:5%;
+}
+.six{
+  position: absolute;
+  left:33%;
+  top:75%;
+}
+.five{
+  position: absolute;
+  left:31%;
+  top:72%;
+}
+.seven{
+  position: absolute;
+  right:35%;
+  top:75%;
+}
+.four{
+  position: absolute;
+  right:33%;
+  top:72%;
+}
+.eight{
+  position:absolute;
+  right:45%;
+  top:83%;
+}
+.nine{
+  float: right;
+  margin-left:70px;
+  width: 30%;
+
+
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: teal;
+  font-weight:normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:teal;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:30px;
+}
+.profilepic{
+  width:150px;
+  height:170px;
+}
+hr{
+  border-style:dotted none none none;
+  border-top-width:9px;
+  border-top-color:#66BFBF;
+  width:100px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.credit{
+  color:#EAF6F6;
+  margin-top:35px;
+}
+.butn{
+  background:#11cdd4;
+  background-image:linear-gradient(to bottom,#11cdd4,#11999e);
+  border-radius: 8px;
+  font-family: 'Times New Roman';
+  color:#ffffff;
+  font-size: 20px;
+  padding:10px 20px 10px 20px;
+  text-decoration: none;
+}
+.image{
+  float: right;
+  margin-left:30px;
+  width:10%;
+}
